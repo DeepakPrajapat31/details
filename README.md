@@ -1,1 +1,1 @@
-<a href="https://github.io/details/Table">Click me for Details.
+<a href="https://deepakprajapat31.github.io/details/Table">Click me for Details.
